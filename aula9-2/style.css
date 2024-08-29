@@ -1,0 +1,23 @@
+.container{
+    background-color: rgb(128, 128, 128);
+    padding: 20px;
+    word-spacing: 60px;
+    
+}
+body{
+    font-family: monospace;
+    background-color: black;
+    color: white;
+}
+span{
+    word-spacing: 6px;
+}
+img{
+    margin-left: 17%;
+}
+a{
+    color: white;
+}
+p{
+    font-size: 20px;
+}
